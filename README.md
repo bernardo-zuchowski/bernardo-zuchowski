@@ -5,4 +5,4 @@
 - 📫 How to contact me... ber.s.zuc@gmail.com
 
 
-![Bernardo's github stats](https://github-readme-stats.vercel.app/api?username=bernardo-zuchowski&show_icons=true&theme=great-gatsby))
+![Bernardo's github stats](https://github-readme-stats.vercel.app/api?username=bernardo-zuchowski&show_icons=true&theme=great-gatsby)
