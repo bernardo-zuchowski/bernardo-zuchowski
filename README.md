@@ -5,8 +5,8 @@
 
 
 <a href="https://github.com/bernardo-zuchowski/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardo-zuchowski&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardo-zuchowski&show_icons=true&hide_border=true&hide_title=true" />
 </a>
 <a href="https://github.com/bernardo-zuchowski/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-zuchowski&exclude_repo=conhecimento-de-si-mesmo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-zuchowski&hide=html&layout=compact&hide_border=true" />
 </a>
