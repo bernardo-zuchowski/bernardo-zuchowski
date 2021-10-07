@@ -4,4 +4,9 @@
 - 📫 How to contact me... ber.s.zuc@gmail.com
 
 
-![Bernardo's github stats](https://github-readme-stats.vercel.app/api?username=bernardo-zuchowski&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-zuchowski)
+<a href="https://github.com/bernardo-zuchowski/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardo-zuchowski&show_icons=true" />
+</a>
+<a href="https://github.com/bernardo-zuchowski/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo-zuchowski&exclude_repo=conhecimento-de-si-mesmo" />
+</a>
