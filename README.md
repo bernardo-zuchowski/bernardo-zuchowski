@@ -1,6 +1,8 @@
 :wave: Oi, meu nome é Bernardo.
+
 :computer: Atualmente estudando e criando projetos. 
-:mail: Entre em contato comigo, atualmente procuro emprego... ber.s.zuc@gmail.com
+
+:mailbox: Entre em contato comigo, atualmente procuro emprego... ber.s.zuc@gmail.com
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/bernardo-zuchowski/github-readme-stats">
